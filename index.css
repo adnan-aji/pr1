@@ -1,0 +1,56 @@
+div {
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.jumbotron {
+    padding: 70px 30;
+    margin: 0px auto;
+    background: #9575cd;
+    color: floralwhite;
+}
+
+
+/*.color{
+    background-color: antiquewhite;
+}*/
+
+
+/*.header,.footer{
+    background-color: #f8e7a3;
+    height:4500px;
+    
+}*/
+
+.row-header {
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.row-content {
+    margin: 10px 10px 0px 10px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 2px ridge;
+    min-height: 400px;
+}
+
+.footer {
+    background-color: #d1c4E9;
+    margin: 0px;
+    padding: 20px 0;
+}
+
+.address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
+
+.navbar-dark {
+    background-color: 5125da8;
+}
+
+.body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
